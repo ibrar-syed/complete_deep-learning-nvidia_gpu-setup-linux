@@ -1,0 +1,5 @@
+tensorflow[and-cuda]==2.16.1
+tensorrt==8.6.1
+tensorrt_dispatch==8.6.1
+tensorrt_lean==8.6.1
+jupyterlab
