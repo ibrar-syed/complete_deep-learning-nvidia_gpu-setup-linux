@@ -26,8 +26,11 @@ This repository provides a complete setup guide and automation script to install
 ---
 
 ##  Quick Start
+# for information to setup it, you can contact me:
+https://www.upwork.com/freelancers/~01d6e59659983b0c27?mp_source=share
 
 ### 1. Clone this repository
 ```bash
 git clone https://github.com/yourusername/deep-learning-gpu-setup-linux.git
 cd deep-learning-gpu-setup-linux
+
