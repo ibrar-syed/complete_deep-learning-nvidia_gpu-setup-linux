@@ -1,4 +1,4 @@
-// test_cudnn.c
+##// test_cudnn.c
 #include <cudnn.h>
 #include <stdio.h>
 
