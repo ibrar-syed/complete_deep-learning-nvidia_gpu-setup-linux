@@ -1,0 +1,18 @@
+name: tf
+channels:
+  - defaults
+  - conda-forge
+  - nvidia
+dependencies:
+  - python=3.9
+  - pip
+  - cudatoolkit=12.1
+  - cudnn=8.9
+  - gcc
+  - gxx
+  - pip:
+      - tensorflow[and-cuda]
+      - jupyterlab
+      - tensorrt
+      - tensorrt_dispatch
+      - tensorrt_lean
