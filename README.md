@@ -1,9 +1,33 @@
-# deep-learning-gpu-setup-linux
-Full setup for a deep learning environment on Ubuntu Linux with CUDA, cuDNN, TensorRT, and TensorFlow GPU. Includes scripts, test code, and environment configuration
+# Deep Learning GPU Setup on Linux
 
-test_cudnn.c to test and verify that it is installed properly
-gcc -o test_cudnn test_cudnn.c -I/usr/local/cuda-12.1/include -L/usr/local/cuda-12.1/lib64 -lcudnn
-./test_cudnn
-## to create an environment
-conda env create -f environment.yml
-conda activate tf
+This repository provides a complete setup guide and automation script to install a full deep learning environment on **Ubuntu Linux** with support for **CUDA**, **cuDNN**, **TensorRT**, and **TensorFlow** (GPU enabled). It includes setup scripts, environment definitions, and test files.
+
+---
+
+##  What's Included
+
+- CUDA Toolkit 12.1 installation and configuration
+- cuDNN setup with verification script
+- TensorRT installation with Python bindings
+- Python 3.9 environment (via Miniconda)
+- TensorFlow (GPU-accelerated) installation
+- JupyterLab setup for development
+- Conda environment file and pip-based requirements
+- Social preview image and documentation
+
+---
+
+##  Requirements
+
+- Ubuntu 20.04 or 22.04
+- NVIDIA GPU with driver support for CUDA 12.1
+- sudo access to install system dependencies
+
+---
+
+##  Quick Start
+
+### 1. Clone this repository
+```bash
+git clone https://github.com/yourusername/deep-learning-gpu-setup-linux.git
+cd deep-learning-gpu-setup-linux
