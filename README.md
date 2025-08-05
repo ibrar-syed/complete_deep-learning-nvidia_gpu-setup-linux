@@ -17,7 +17,7 @@ This repository provides a complete setup guide and automation script to install
 
 ---
 
-##  Requirements
+##  Basic Requirements for Setup
 
 - Ubuntu 20.04 or 22.04
 - NVIDIA GPU with driver support for CUDA 12.1
