@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#........
 # ====================================
 # Deep Learning Environment Setup on Linux
 # CUDA, cuDNN, TensorRT, Python, TensorFlow
