@@ -1,4 +1,4 @@
-# Deep Learning GPU Setup on Linux
+# Deep Learning GPU Setup on Linux by....
 
 This repository provides a complete setup guide and automation script to install a full deep learning environment on **Ubuntu Linux** with support for **CUDA**, **cuDNN**, **TensorRT**, and **TensorFlow** (GPU enabled). It includes setup scripts, environment definitions, and test files.
 
