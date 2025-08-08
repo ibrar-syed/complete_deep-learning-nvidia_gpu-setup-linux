@@ -34,3 +34,6 @@ https://www.upwork.com/freelancers/~01d6e59659983b0c27?mp_source=share
 git clone https://github.com/yourusername/deep-learning-gpu-setup-linux.git
 cd deep-learning-gpu-setup-linux
 
+## License
+This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
+
