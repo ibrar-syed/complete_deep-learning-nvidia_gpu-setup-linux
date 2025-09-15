@@ -7,9 +7,9 @@ int main() {
     cudnnStatus_t status = cudnnCreate(&handle);
 
     if (status == CUDNN_STATUS_SUCCESS) {
-        printf("✅ cuDNN initialized successfully.\n");
+        printf(" cuDNN initialized successfully.\n");
     } else {
-        printf("❌ cuDNN initialization failed.\n");
+        printf(" cuDNN initialization failed.\n");
     }
 
     cudnnDestroy(handle);
