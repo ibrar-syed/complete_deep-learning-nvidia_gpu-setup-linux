@@ -16,7 +16,7 @@
 # along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 #!/bin/bash
-#........
+#......
 # ====================================
 # Deep Learning Environment Setup on Linux
 # CUDA, cuDNN, TensorRT, Python, TensorFlow
