@@ -1,4 +1,4 @@
-#requirements to be installed before running the program.,..
+#requirements to be installed before running the program.,
 
 tensorflow[and-cuda]==2.16.1
 
