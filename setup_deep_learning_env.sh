@@ -96,7 +96,7 @@ echo " Installing TensorRT..."
 tar -xzvf TensorRT-8.6.1.6.Linux.x86_64-gnu.cuda-12.0.tar.gz
 sudo mv TensorRT-8.6.1.6 /usr/local/TensorRT-8.6.1
 
-echo "🔧 Configuring environment for TensorRT..."
+echo " Configuring environment for TensorRT..."
 echo 'export PATH=/usr/local/TensorRT-8.6.1/bin:$PATH' >> ~/.bashrc
 echo 'export LD_LIBRARY_PATH=/usr/local/TensorRT-8.6.1/lib:$LD_LIBRARY_PATH' >> ~/.bashrc
 source ~/.bashrc
