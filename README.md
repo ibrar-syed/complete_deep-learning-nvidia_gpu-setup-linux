@@ -23,7 +23,7 @@ This repository provides complete setup guide and automation script to install f
 - NVIDIA GPU with driver support for CUDA 12.1
 - sudo access to install system dependencies
 
----
+------
 
 ##  Quick Start
 # for information to setup it, you can contact me:
