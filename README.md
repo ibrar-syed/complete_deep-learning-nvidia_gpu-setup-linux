@@ -4,7 +4,7 @@ This repository provides complete setup guide and automation script to install f
 
 ---
 
-##  What's Included
+##  What is Included
 
 - CUDA Toolkit 12.1 installation and configuration
 - cuDNN setup with verification script
